@@ -1,0 +1,10 @@
+
+#reveal_in_center {
+  height:100%;
+}
+
+#reveal_in_center #presenter {
+  height:100%;
+  background-color:#507642;
+}
+
